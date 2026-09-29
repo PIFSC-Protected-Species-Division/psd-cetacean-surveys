@@ -8,9 +8,9 @@ page-layout: full
 
 ## Top Links
 
-#-   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977){target="_blank"} (see also training tab on left)
-#-   [CIMAR Papahānaumokuākea Protected Species Field Research](https://www.soest.hawaii.edu/cimar/pps_field_research/){.external target="_blank"}
-#-   [NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument){.external target="_blank"}
+ <!-- - [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977){target="_blank"} (see also training tab on left) -->
+ <!-- - [CIMAR Papahānaumokuākea Protected Species Field Research](https://www.soest.hawaii.edu/cimar/pps_field_research/){.external target="_blank"}  -->
+ <!-- - [NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument){.external target="_blank"} -->
 
 ## Who are we?
 
@@ -19,7 +19,6 @@ NOAA's Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific I
 Within PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).
 
 The Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.
-
 
 ## Schedule
 
